@@ -97,17 +97,7 @@ iot-edge-vital-gateway/
 
 ---
 
-## 📜 License & Citation
+## 📜 License
 
-Distributed under the **MIT License**.
+Distributed under the **MIT License**. See `LICENSE` for details.
 
-If you use or reference this architecture in academic research:
-```bibtex
-@software{nosrati2026iotgateway,
-  author = {Nosrati, Hossein},
-  title = {Industrial & Medical IoT Edge Vital Telemetry Gateway},
-  year = {2026},
-  publisher = {GitHub},
-  url = {https://github.com/hosseinnosrati/iot-edge-vital-gateway}
-}
-```
