@@ -1,6 +1,7 @@
 # Industrial & Medical IoT Edge Vital Telemetry Gateway
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vital-edge-gateway.streamlit.app)
 [![Cisco-IoT](https://img.shields.io/badge/Cisco%20Verified-Introduction%20to%20IoT-green.svg)](https://www.credly.com/badges/9421de56-080d-47d0-9413-912bdc368470/public_url)
 [![C99 Zero-Malloc](https://img.shields.io/badge/C99-Zero--Allocation-brightgreen.svg)](firmware/vital_gateway_core.h)
 [![Real-Time Latency](https://img.shields.io/badge/Mean%20Latency-11.58%20%CE%BCs-success.svg)](benchmarks/run_benchmark.py)
